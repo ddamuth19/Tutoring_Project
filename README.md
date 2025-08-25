@@ -102,5 +102,5 @@ Advisor: Dr. Mark Baker
 
 ---
 
-Reference: [Theobald, R., & Freeman, S. (2017). *Is It the Intervention or the Students? Using Linear Regression to Control for Student Characteristics in Undergraduate STEM Education Research.* CBE-Life Sciences Education.](www.lifescied.org/doi/10.1187/cbe-13-07-0136)
+Reference: [Theobald, R., & Freeman, S. (2017). *Is It the Intervention or the Students? Using Linear Regression to Control for Student Characteristics in Undergraduate STEM Education Research.* CBE-Life Sciences Education.](https://www.lifescied.org/doi/10.1187/cbe-13-07-0136)
 
