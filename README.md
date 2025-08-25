@@ -88,8 +88,10 @@ Tutoring Records Dataset (SUNY Oswego, 2024)
 ---
 
 ### Contribution
-Author: Dawson Damuth (Capstone Research, MAT 499)  
-Advisor: Dr. Mark Baker  
+
+- Author: Dawson Damuth (Capstone Research, MAT 499)  
+
+- Advisor: Dr. Mark Baker  
 
 - My Role:
   - Data collection and preprocessing pipeline
